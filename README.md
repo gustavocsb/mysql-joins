@@ -1,2 +1,8 @@
-# mysql-joins
+# MySQL-joins
 Uso de joins em MySQL
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- LEFT INNER JOIN
+- RIGHT INNER JOIN
+- 3 TABLE JOIN
